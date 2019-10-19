@@ -1,3 +1,14 @@
 <resources>
-    <string name="app_name">CICalculator</string>
+    <string name="app_name">IntrestCalculator</string>
+    <string name="str1">Initial Investment</string>
+    <string name="str2">Regular Payment</string>
+    <string name="str3">Annual Intrest Rate</string>
+    <string name="str4">Years to grow</string>
+    <string name="btn1">CALCULATE</string>
+    <string-array name="nums">
+        <item>Monthly</item>
+        <item>Quarterly</item>
+        <item>Semi-Annually</item>
+        <item>Annually</item>
+    </string-array>
 </resources>
